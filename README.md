@@ -1,4 +1,4 @@
-# Max Flow Problems
+# Max Flow Problem and Applications
 
 This is a repository for a course project (IT251: Data Structures and Algorithms - II)  
 
